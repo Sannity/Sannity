@@ -1,6 +1,6 @@
 # Hi, I'm Austin
 ___
-I am a Software Developer from Upstate New York. I have 3+ years experience in enterprise software development. I love to code, solve problems, and explore my capabilities.
+I am a Software Developer from Upstate New York. I have 5 years experience in enterprise software development. I love to code, solve problems, and explore my capabilities.
 
 ### Programming Languages:
 <div float="left">
