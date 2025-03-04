@@ -12,7 +12,6 @@ I am a Software Developer from Upstate New York. I have 5 years experience in en
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-  <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
 
