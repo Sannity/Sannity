@@ -4,6 +4,7 @@ I am a Software Developer from Upstate New York. I have 5 years experience in en
 
 ### Programming Languages:
 <div float="left">
+  <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" />
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img width="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
